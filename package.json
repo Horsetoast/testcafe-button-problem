@@ -1,0 +1,14 @@
+{
+  "name": "testcafe-link-problem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome --incognito test/testcafe.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "testcafe": "^0.20.3"
+  }
+}
